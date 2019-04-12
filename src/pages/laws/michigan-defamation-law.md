@@ -2,8 +2,10 @@
 templateKey: blog-post
 title: Michigan Defamation Law
 date: 2019-03-08T15:04:10.000Z
-description: Michigan defamation law consists of statutes and case law.  Defamation law in Michigan may include libel, slander, false light, intereference with business relations, and other torts.  
-
+description: >-
+  Michigan defamation law consists of statutes and case law.  Defamation law in
+  Michigan may include libel, slander, false light, intereference with business
+  relations, and other torts.
 tags:
   - Michigan defamation law
   - Michigan reputaion laws
@@ -25,7 +27,8 @@ In summary, the elements of a defamation claim in Michigan are:
 The statute governing defamation in Michigan is:
 
 ### 600.2911 Action for libel or slander.
-###Sec. 2911.
+
+\###Sec. 2911.
 
 (1) Words imputing a lack of chastity to any female or male are actionable in themselves and subject the person who uttered or published them to a civil action for the slander in the same manner as the uttering or publishing of words imputing the commission of a criminal offense.
 
@@ -49,8 +52,11 @@ The statute governing defamation in Michigan is:
 
 Cases providing the interpretation of Michigan defamation statutes and common law are continuously updated, we encourage you to check back frequently.
 
-Michigan "John Doe" lawsuit to uncover the identity of the poster of allegedly defamatory statements in Michigan, [Sarkar v. Doe](https://www.cybertrialattorney.com/posts/the-online-forum-defamation-case).
+* Michigan "John Doe" lawsuit to uncover the identity of the poster of allegedly defamatory statements in Michigan, [Sarkar v. Doe](https://www.cybertrialattorney.com/posts/the-online-forum-defamation-case).
+* Michigan case where "Jane Doe" Plaintiff accused the Defendant of being a State actor through the use of subpoenas and other Court processes. [Doe v. Bakhsehtsyan](https://www.cyberlawyer.tech/doe-v-bakhsehtsyan/).
+
+
 
 ## Additional Michigan Defamation Law Information
 
-Additional information related to defamation laws as well as consultation for Michigan attorneys related to investigations of defamation for Michigan clients can be obtained by contacting patent attorney, digital forensics, and cyber security expert [Domingo J Rivera](http://www.cyberinternetlawyer.com) of AVM Technology, a consulting firm that assists attorneys and defamation victims uncover the culprits of cyber defamation in Michigan and throughout the U.S., Canada, and Europe. 
+Additional information related to defamation laws as well as consultation for Michigan attorneys related to investigations of defamation for Michigan clients can be obtained by contacting patent attorney, digital forensics, and cyber security expert [Domingo J Rivera](http://www.cyberinternetlawyer.com) of AVM Technology, a consulting firm that assists attorneys and defamation victims uncover the culprits of cyber defamation in Michigan and throughout the U.S., Canada, and Europe.
